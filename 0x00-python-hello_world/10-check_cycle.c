@@ -1,5 +1,5 @@
 #include "lists.h"
-/* 
+/**
  * check_cycle - checks if a listint has a cycle
  * @list: the list to check
  * Return: 0 for no cycle, 1 for cycle
