@@ -21,4 +21,4 @@ if __name__ == "__main__":
     elif (op == ops[2]):
         print("{} * {} = {}".format(a, b, mul(a, b)))
     elif (op == ops[3]):
-        print("{} + {} = {}".format(a, b, div(a, b)))
+        print("{} / {} = {}".format(a, b, div(a, b)))
